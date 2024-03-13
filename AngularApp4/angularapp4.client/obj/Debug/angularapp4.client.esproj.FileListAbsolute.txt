@@ -1,0 +1,1 @@
+C:\GitHub\AngularAndNet8\AngularApp4\angularapp4.client\obj\Debug\angularapp4.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+<mat-toolbar class="logout-btn">
+  <div class="logo">
+    <div class="logo-img">
+      <img src="../../../assets/img/icon/logo-app.svg" />
+    </div>
+  </div>
+  <span class="example-spacer"></span>
+  <div class="top-settings">
+  <div routerLinkActive="active" *ngFor="let item of navList">
+    <button mat-icon-button class={{item.class}} routerLink="{{item.url}}">
+      <mat-icon>{{item.icon}}</mat-icon>
+    </button>
+  </div>
+</div>
+</mat-toolbar>

@@ -1,0 +1,21 @@
+.changeLangImg {
+    height: 50px;
+    width: 50px;
+    margin: auto;
+}
+
+.changeLang {
+    text-align: center;
+
+    height: 250px;
+    width: 250px;
+    background-color: rgb(212 212 211);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.changeLangSelect  {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}

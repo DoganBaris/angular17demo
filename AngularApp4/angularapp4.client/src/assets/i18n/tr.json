@@ -1,0 +1,17 @@
+{
+    "lang-tr": "Türkçe",
+    "lang-en": "İngilizce",
+    "settings": "Ayarlar Çalıştııı !!!!!!!!!!!",
+    "save": "Kaydet",
+    "selectLanguage": "Dil Seçiniz",
+    "login": {
+        "loginButton": "Giriş",
+        "UsernamePasswordWrong": "Kullanıcı adı veya parola hatalı."
+    },
+    "organization" : {
+        "add": "Organizasyon Ekle"
+    },
+    "user" : {
+        "add": "Kullanıcı Ekle"
+    }
+}

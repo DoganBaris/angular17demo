@@ -1,0 +1,17 @@
+{
+    "lang-tr": "Turkish",
+    "lang-en": "English",
+    "settings": "Settings work!!!!!!!!",
+    "save": "Save",
+    "selectLanguage": "Select Language",
+    "login": {
+        "loginButton": "Login",
+        "UsernamePasswordWrong": "Username or password is wrong."
+    },
+    "organization" : {
+        "add": "Add Organization"
+    },
+    "user" : {
+        "add": "Add User"
+    }
+}

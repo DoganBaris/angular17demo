@@ -1,0 +1,18 @@
+<div class="sidebar-wrapper">
+  <button type="button" class="button-shrink" >
+    <mat-icon>menu</mat-icon>
+  </button>
+  <ul class="nav">
+    <li routerLinkActive="active" *ngFor="let item of menuList">
+      <a class="nav-link" routerLink="{{item.url}}">
+        <i class="material-icons">{{item.icon}}</i>
+        {{item.name}}
+      </a>
+    </li>
+  </ul>
+</div>
+<!-- <mat-nav-list *ngFor="let item of sidebar">
+
+  <a mat-list-item routerLink="{{item.url}}">{{item.name}}</a>
+
+</mat-nav-list> -->

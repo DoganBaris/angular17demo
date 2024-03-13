@@ -1,0 +1,12 @@
+C:\GitHub\AngularAndNet8\AngularApp4\AngularApp4.Server\obj\Release\net8.0\PubTmp\Out\AngularApp4.Server.exe
+C:\GitHub\AngularAndNet8\AngularApp4\AngularApp4.Server\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\GitHub\AngularAndNet8\AngularApp4\AngularApp4.Server\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\GitHub\AngularAndNet8\AngularApp4\AngularApp4.Server\obj\Release\net8.0\PubTmp\Out\AngularApp4.Server.dll
+C:\GitHub\AngularAndNet8\AngularApp4\AngularApp4.Server\obj\Release\net8.0\PubTmp\Out\AngularApp4.Server.deps.json
+C:\GitHub\AngularAndNet8\AngularApp4\AngularApp4.Server\obj\Release\net8.0\PubTmp\Out\AngularApp4.Server.runtimeconfig.json
+C:\GitHub\AngularAndNet8\AngularApp4\AngularApp4.Server\obj\Release\net8.0\PubTmp\Out\AngularApp4.Server.pdb
+C:\GitHub\AngularAndNet8\AngularApp4\AngularApp4.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+C:\GitHub\AngularAndNet8\AngularApp4\AngularApp4.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\GitHub\AngularAndNet8\AngularApp4\AngularApp4.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\GitHub\AngularAndNet8\AngularApp4\AngularApp4.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GitHub\AngularAndNet8\AngularApp4\AngularApp4.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
